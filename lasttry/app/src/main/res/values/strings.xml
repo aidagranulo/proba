@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lasttry</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_evidentiranje">evidentiranje</string>
+    <string name="title_activity_pregledanje">pregledanje</string>
+    <string name="title_activity_pretrazivanje">pretrazivanje</string>
+</resources>
